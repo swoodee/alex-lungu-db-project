@@ -1,3 +1,3 @@
 # 1 - DATABASE MODEL (DIAGRAM)
 
-![Alt text](https://github.com/swoodee/alex-lungu-db-project/blob/235a5ca82df0e890ec1a97103a0f10f1f262aef1/Database%20model%20(Diagram).jpg?raw=true "DATABASE MODEL (DIAGRAM)")
+![Alt text]https://github.com/swoodee/alex-lungu-db-project/blob/fbd62a16e455d95dcbe82c6273aa7d15ab8d8c1e/Database%20model%20(Diagram).jpg?raw=true "DATABASE MODEL (DIAGRAM)")
